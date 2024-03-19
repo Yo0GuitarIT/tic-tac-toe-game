@@ -1,0 +1,15 @@
+/Users/mac/Desktop/tic-tac-toe-game/bin/Debug/net6.0/tic-tac-toe-game
+/Users/mac/Desktop/tic-tac-toe-game/bin/Debug/net6.0/tic-tac-toe-game.deps.json
+/Users/mac/Desktop/tic-tac-toe-game/bin/Debug/net6.0/tic-tac-toe-game.runtimeconfig.json
+/Users/mac/Desktop/tic-tac-toe-game/bin/Debug/net6.0/tic-tac-toe-game.dll
+/Users/mac/Desktop/tic-tac-toe-game/bin/Debug/net6.0/tic-tac-toe-game.pdb
+/Users/mac/Desktop/tic-tac-toe-game/obj/Debug/net6.0/tic-tac-toe-game.csproj.AssemblyReference.cache
+/Users/mac/Desktop/tic-tac-toe-game/obj/Debug/net6.0/tic-tac-toe-game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/tic-tac-toe-game/obj/Debug/net6.0/tic-tac-toe-game.AssemblyInfoInputs.cache
+/Users/mac/Desktop/tic-tac-toe-game/obj/Debug/net6.0/tic-tac-toe-game.AssemblyInfo.cs
+/Users/mac/Desktop/tic-tac-toe-game/obj/Debug/net6.0/tic-tac-toe-game.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/tic-tac-toe-game/obj/Debug/net6.0/tic-tac-toe-game.dll
+/Users/mac/Desktop/tic-tac-toe-game/obj/Debug/net6.0/refint/tic-tac-toe-game.dll
+/Users/mac/Desktop/tic-tac-toe-game/obj/Debug/net6.0/tic-tac-toe-game.pdb
+/Users/mac/Desktop/tic-tac-toe-game/obj/Debug/net6.0/tic-tac-toe-game.genruntimeconfig.cache
+/Users/mac/Desktop/tic-tac-toe-game/obj/Debug/net6.0/ref/tic-tac-toe-game.dll
